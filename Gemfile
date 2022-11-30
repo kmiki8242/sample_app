@@ -5,6 +5,7 @@ ruby '2.7.6'
 
 gem 'rails',      '6.0.4'
 gem 'bootstrap-sass'
+gem 'bcrypt',     '3.1.7'
 gem 'puma',       '4.3.6'
 gem 'sass-rails', '5.1.0'
 gem 'webpacker',  '4.0.7'
